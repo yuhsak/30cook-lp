@@ -46,9 +46,11 @@
                             </h2>
                         </div>
                         <div class="appDescriptionContainer">
-                            <p class ="appDescription">
-                                {{ site.app_description }}
-                            </p>
+                            {{for line in site.app_description}}
+                                <p class ="appDescription">
+                                    {{ line }}
+                                </p>
+                            {{ endfor }}
                         </div>
                         <div class="downloadButtonsContainer">
                             {% if site.playstore_link %}
