@@ -12,8 +12,8 @@ app_icon                                  : assets/appicon.png                  
 app_name                                  : さくさくクッキング                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 無料                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           :
-  - 最近おうちごはんの機会が増えていませんか？手間はかけられない、でもいつでも美味しいごはんが食べたい。
-  - 時短レシピをみんなでシェアしておうちごはんを楽しもう。
+  - 最近おうちごはんの機会が増えていませんか？
+  - 時短レシピをみんなでシェアしておうちごはんを楽しみましょう。
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : false                               
 your_name                                 : Yuhsak Inoue
 your_link                                 : https://ysk.im
 your_city                                 : Tokyo
-# email_address                             : emil.baehr@gmail.com
+email_address                             : yuhsak.inoue@gmail.com
 # facebook_username                         :
 # instagram_username                        : ebaehr
 twitter_username                          : YuhsakInoue
