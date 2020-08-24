@@ -12,8 +12,7 @@ app_icon                                  : assets/appicon.png                  
 app_name                                  : さくさくクッキング                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 無料                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           :
-  - 最近おうちごはんの機会が増えていませんか？
-  - 時短レシピをみんなでシェアしておうちごはんを楽しみましょう。
+  - 時短レシピで楽しくお料理
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -30,7 +29,10 @@ twitter_username                          : YuhsakInoue
 github_username                           : Yuhsak
 # youtube_username                          :
 
-
+description:
+  - 最近おうちでご飯を作る機会がすごく増えました。
+  - 毎日のことだからあまり手間はかけられないけど、いつも楽しく食事がしたい…
+  - さくさくクッキングはそんな想いから生まれた時短レシピのアプリです。
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
