@@ -15,6 +15,14 @@
 
 }
 
+@media only screen and (max-width: 768px) {
+
+	.imageWrapper {					// Set up the container for the site content
+		height: 860px;
+	}
+
+}
+
 .headerBackground {
 	height: 115px;
 	background-color: rgba($header-color, $header-transparency);
@@ -326,13 +334,14 @@ nav > ul li a:active {
 .appDescription {
 	color: $app-description-color;
 	margin-bottom: 6px;
+	font-size: 2rem;
 }
 
 @media only screen and (max-width: 992px) {
 
 	.appDescription {
 		text-align: center;
-		font-size: 2rem;
+		font-size: 1.8rem;
 	}
 
 }
